@@ -7,7 +7,7 @@ http://www.iisgalilei.eu/areadiprogetto/4J2021/
 | Sito web del progetto di PCTO "finance-bot" della classe 4J | 
 |                                                             | 
 |                                                             | 
-| A cura di Weber Alex                                        | 
+| A cura di: Weber Alex                                       | 
 +-------------------------------------------------------------+ 
 
 </pre>
