@@ -1,10 +1,12 @@
 # finance-bot_website
 
+<pre>
++-------------------------------------------------------------+ 
+| Sito web del progetto di PCTO "finance-bot" della classe 4J | 
+|                                                             | 
+| http://www.iisgalilei.eu/areadiprogetto/4J2021/             | 
+|                                                             | 
+| A cura di Weber Alex                                        | 
++-------------------------------------------------------------+ 
 
-+-------------------------------------------------------------+ \n
-| Sito web del progetto di PCTO "finance-bot" della classe 4J | \n
-|                                                             | \n
-| http://www.iisgalilei.eu/areadiprogetto/4J2021/             | \n
-|                                                             | \n
-| A cura di Weber Alex                                        | \n
-+-------------------------------------------------------------+ \n
+</pre>
